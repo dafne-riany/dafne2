@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfólio de Dafne Riany</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: #ffffff;
+            border-radius: 5px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #35424a;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu Portfólio</h1>
+        <h2>Dafne Riany</h2>
+        <p>Olá! Meu nome é Dafne e sou estudante de programação, estou no terceiro ano do ensino médio e estudo no colégio P.E.I Marianinha de Queiroz. Quero fazer faculdade de direito e eu amo fotografia.</p>
+    </header>
+    <section>
+        <h3>Minhas Habilidades</h3>
+        <ul>
+            <li>Fotografia</li>
+            <li>Comunicação</li>
+            <li>p5.js</li>
+        </ul>
+    </section>
+    <section>
+        <h3>Meus Projetos</h3>
+        <ul>
+            <li><a href="https://editor.p5js.org/dada-riany/sketches/MZnAQVt_W" target="_blank">Jogo de Corrida - p5.js</a></li>
+            <li><a href="https://editor.p5js.org/dada-riany/sketches/ZDku5W_t9" target="_blank">Projeto 2 - p5.js</a></li>
+            <li><a href="https://editor.p5js.org/dada-riany/sketches/sXqW4S-0r" target="_blank">Projeto 3 - p5.js</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>Entre em contato: 00001219726321sp@al.educacao.sp.gov.br</p>
+        <p>GitHub © Copyright 2025. Produzido por Dafne Riany</p>
+    </footer>
+</body>
+</html>
+
